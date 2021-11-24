@@ -1,0 +1,23 @@
+{
+  "name": "shivam's-portfolio",
+  "version": "1.0.0",
+  "description": "Hey!! I'm shivam mishra and you are welcome",
+  "main": "portfolio.js",
+  "scripts": {
+    "test": "node start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shivam1470/Shivam-Mishra.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shivam1470/Shivam-Mishra/issues"
+  },
+  "homepage": "https://github.com/shivam1470/Shivam-Mishra#readme",
+  "dependencies": {
+    "firebase": "^9.5.0"
+  }
+}
